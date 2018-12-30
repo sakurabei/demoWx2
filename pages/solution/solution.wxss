@@ -1,0 +1,43 @@
+/* pages/solution/solution.wxss */
+.wxid{
+  font-size:95%;
+}
+.moto-container{
+  border:1px solid #405f80;
+  width:700rpx;
+  height:80rpx;
+  border-radius: 5px;
+  text-align:center;
+  margin-top:200rpx;
+  margin-left:25rpx;
+ 
+
+}
+.moto{
+  font-size:30rpx; 
+  line-height:80rpx; 
+  font-weight:bold;
+  color: #333;
+  
+  
+} 
+.itemView{
+ 
+  display:flex;
+  flex-direction:row;
+  margin-left:80rpx;
+  
+ 
+
+}
+.input{
+   border:1px solid #333;
+    border-radius: 5px;
+    height:80rpx;
+    margin-top:200rpx;
+
+}
+.itemView text{
+  font-size:40rpx;
+  margin-top:220rpx;
+}

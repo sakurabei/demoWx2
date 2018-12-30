@@ -1,0 +1,8 @@
+<!--pages/solution/solution.wxml-->
+<view class="moto-container wxid" bindtap="ontap">
+  <text class="moto" selectable='true'>{{show}} </text>
+  <view class="itemView">
+    <text>输入：</text>
+    <input class="input" type="text" name="wxopenid" bindinput="userNameInput" />
+  </view>
+</view>
